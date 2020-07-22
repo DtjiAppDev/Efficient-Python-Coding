@@ -8,3 +8,5 @@ The source code in https://github.com/CreativeCloudAppDev2020/Efficient-Python-C
 efficient Python coding practices.
 
 ### Tests
+
+Tests for the source code are in https://github.com/CreativeCloudAppDev2020/Efficient-Python-Coding/blob/master/tests/test_efficient_python_coding.py.
